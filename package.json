@@ -2,7 +2,7 @@
   "name": "notes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://indra-19.github.io/notes-app",
+  "homepage": "https://madanadra.github.io/notes-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -12,6 +12,7 @@
     "react-cookie": "^4.1.1",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0",
+    "react-textarea-autosize": "^8.3.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

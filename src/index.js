@@ -1,11 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './App.css';
 import App from './App';
+import { NotesApp } from './store/context'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <NotesApp>
+      <App />
+    </NotesApp>
   </React.StrictMode>,
   document.getElementById('root')
 );
